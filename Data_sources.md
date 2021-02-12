@@ -21,5 +21,5 @@ These categories provide a comprehensive view of the economic, residential, and 
 Finally, I need to understand the population dynamics of a postal code. I employ population data such as population density, average income of people living there, fraction of people that rent or commute to work etc. from https://en.wikipedia.org/wiki/Demographics_of_Toronto_neighbourhoods
 
 And then map these data onto the postal code associated with each neighborhood
-#  <#Title#>
+
 
