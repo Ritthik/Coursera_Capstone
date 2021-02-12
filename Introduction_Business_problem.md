@@ -1,6 +1,6 @@
 Introduction/ Business Problem
 
-The question city planners and municipal bodies often ask is: Why do people want to live in certain neighborhoods? That can make planning and develolment of cities more holistic and sustainable. 
+The question city planners and municipal bodies often ask is: Why do people want to live in certain neighborhoods? That can make planning and development of cities more holistic and sustainable. 
 
 Economic opportunities in the area, availability of residential locations, professional and educational opportunities all seem like great candidates determining the sustained popularity of a neighborhood. Some of these factors include a number of aspects. For example, residence could be owned or rented. Or average income of a neighborhood may be a factor in people staying in a location due to higher overall quality of life or people moving away due to excessive rents. Existing population density could be a draw or a put off for a neighborhood. 
 
