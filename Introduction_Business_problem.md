@@ -28,6 +28,6 @@ With this collocated data, we proceed to understand the population statistics of
 
 Finally, we use some of these factors to model the population density and whether people tend to move in or out of these neighborhoods.
 
-Further exploration of the data is provided in the “Data” section
+Further exploration of the data is provided in the “Data_sources.md” file.
 
 
