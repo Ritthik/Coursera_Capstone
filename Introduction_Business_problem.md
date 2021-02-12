@@ -1,7 +1,8 @@
 Introduction/ Business Problem
 
+The question city planners and municipal bodies often ask is: Why do people want to live in certain neighborhoods? That can make planning and develolment of cities more holistic and sustainable. 
 
-Why do people want to live in certain neighborhoods? Economic opportunities in the area, availability of residential locations, professional and educational opportunities all seem like great candidates determining the sustained popularity of a neighborhood. Some of these factors include a number of aspects. For example, residence could be owned or rented. Or average income of a neighborhood may be a factor in people staying in a location due to higher overall quality of life or people moving away due to excessive rents. Existing population density could be a draw or a put off for a neighborhood. 
+Economic opportunities in the area, availability of residential locations, professional and educational opportunities all seem like great candidates determining the sustained popularity of a neighborhood. Some of these factors include a number of aspects. For example, residence could be owned or rented. Or average income of a neighborhood may be a factor in people staying in a location due to higher overall quality of life or people moving away due to excessive rents. Existing population density could be a draw or a put off for a neighborhood. 
 
 Here I try to understand using a framework as simple as possible, if we can predict the population density and change in population (people moving in or out of neighborhoods) based on some of these factors.
 
