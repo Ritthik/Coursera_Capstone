@@ -22,4 +22,6 @@ Finally, I need to understand the population dynamics of a postal code. I employ
 
 And then map these data onto the postal code associated with each neighborhood
 
+An explanation of the methodologies to extract the data, clean it, preprocess it and model it will be provided in the ipython notebooks for the solution
+
 
