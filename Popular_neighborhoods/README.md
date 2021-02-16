@@ -6,6 +6,9 @@ Two options of going through the notebooks:
 Brief description of parts:
 
 part1: Gather the data from four sources
+
 part2: preliminary data cleaning and analysis
+
 part3: statistical analysis and visualization
+
 part4: Predicting population density and churn
