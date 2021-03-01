@@ -2,4 +2,4 @@
 
 Popular neighborhoods project in the Popular neighborhoods directory
 
-Please read the README in that directory
+Please read the README in that directory.
