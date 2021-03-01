@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# Popular nieghborhoods
 
 Popular neighborhoods project in the Popular neighborhoods directory
 
